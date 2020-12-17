@@ -21,7 +21,8 @@ The master received the results from the slave (and in addition, he also has the
 • Now, the master can print the results (to the output file and the console) <br>
 <br>I chose to parallelize the strings of seq2 with MPI because each seq has independent calculations. In addition, each process has a lot of calculations to do and it's fit to use process or a different computer for this heavy task and not threads. 
 
-##	OMP - parallel offsets calculation
+##	OMP - 
+parallel offsets calculation<br>
 • Using the Omp library I parallelized the task of calculating all the offsets. <br>
 <br>It's a big array size that should be parallel. It's a loop that calculates the bast offset and the best result. Therefore, the omp fits perfectly for this task.
 
