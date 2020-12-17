@@ -1,0 +1,4 @@
+Number of seq2: 0 , The best Offset is: 363 , The best mutant is: 85 , The max Score: 119.300002
+Number of seq2: 1 , The best Offset is: 126 , The best mutant is: 41 , The max Score: 1874.700004
+Number of seq2: 2 , The best Offset is: 855 , The best mutant is: 51 , The max Score: 272.900006
+Number of seq2: 3 , The best Offset is: 975 , The best mutant is: 245 , The max Score: 237.400005
